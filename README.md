@@ -1,2 +1,0 @@
-# Programs
-Learning Python Programming
